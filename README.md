@@ -1,2 +1,2 @@
 # network
-this repo have been created for me netowrk class
+this repo have been created for my netowrk class
